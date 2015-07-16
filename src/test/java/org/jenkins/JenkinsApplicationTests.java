@@ -15,7 +15,7 @@ public class JenkinsApplicationTests {
 	@Test
 	public void contextLoads() {
 		
-		Assert.assertEquals("Mario", "Mario");
+		Assert.assertEquals("Mario", "MarioAlvarez");
 	}
 
 }
